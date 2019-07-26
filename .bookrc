@@ -1,0 +1,22 @@
+{
+  "name": "The Kybalion",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/the-kybalion/master/assets",
+  "book_id": 913,
+  "book_url": "https://bubblin.io/book/the-kybalion-by-three-initiates"
+}

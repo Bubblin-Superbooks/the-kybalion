@@ -1,0 +1,23 @@
+{
+  "0": "<li><a class = \"page\" href=\"17\">Chapter I</a> <span class=\"flex\">17</span> </li>",
+  "1": "<li><a class = \"page\" href=\"17\">The Hermetic Philosophy</a> <span class=\"flex\">17</span> </li>",
+  "2": "<li><a class = \"page\" href=\"28\">Chapter Ii</a> <span class=\"flex\">28</span> </li>",
+  "3": "<li><a class = \"page\" href=\"28\">The Seven Hermetic Principles</a> <span class=\"flex\">28</span> </li>",
+  "4": "<li><a class = \"page\" href=\"47\">Chapter Iii</a> <span class=\"flex\">47</span> </li>",
+  "5": "<li><a class = \"page\" href=\"47\">Mental Transmutation</a> <span class=\"flex\">47</span> </li>",
+  "6": "<li><a class = \"page\" href=\"57\">Chapter Iv</a> <span class=\"flex\">57</span> </li>",
+  "7": "<li><a class = \"page\" href=\"57\">The All</a> <span class=\"flex\">57</span> </li>",
+  "8": "<li><a class = \"page\" href=\"70\">Chapter V</a> <span class=\"flex\">70</span> </li>",
+  "9": "<li><a class = \"page\" href=\"70\">The Mental Universe</a> <span class=\"flex\">70</span> </li>",
+  "10": "<li><a class = \"page\" href=\"83\">The Divine Paradox</a> <span class=\"flex\">83</span> </li>",
+  "11": "<li><a class = \"page\" href=\"102\">\"The All\" In All</a> <span class=\"flex\">102</span> </li>",
+  "12": "<li><a class = \"page\" href=\"120\">Planes Of Correspondence</a> <span class=\"flex\">120</span> </li>",
+  "13": "<li><a class = \"page\" href=\"145\">Vibration</a> <span class=\"flex\">145</span> </li>",
+  "14": "<li><a class = \"page\" href=\"157\">Polarity</a> <span class=\"flex\">157</span> </li>",
+  "15": "<li><a class = \"page\" href=\"168\">Rhythm</a> <span class=\"flex\">168</span> </li>",
+  "16": "<li><a class = \"page\" href=\"181\">Causation</a> <span class=\"flex\">181</span> </li>",
+  "17": "<li><a class = \"page\" href=\"195\">Gender</a> <span class=\"flex\">195</span> </li>",
+  "18": "<li><a class = \"page\" href=\"207\">Mental Gender</a> <span class=\"flex\">207</span> </li>",
+  "19": "<li><a class = \"page\" href=\"228\">Hermetic Axioms</a> <span class=\"flex\">228</span> </li>",
+  "20": "<li><a class = \"page\" href=\"240\">The End</a> <span class=\"flex\">240</span> </li>"
+}
